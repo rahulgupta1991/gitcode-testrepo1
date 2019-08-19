@@ -1,2 +1,2 @@
-tcode-testrepo1
+gittcode-testrepo1
 q TestRepo1
