@@ -1,2 +1,2 @@
-# gitcode-testrepo1
+tcode-testrepo1
 q TestRepo1
